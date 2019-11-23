@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=folder-download
+Name=Descargas
+Type=Link
+URL[$e]=file:$HOME/Descargas
+X-KDE-LastOpenedWith=org.kde.dolphin

@@ -1,0 +1,50 @@
+# KDE Cookie File v2
+#
+# Host               Domain               Path         Exp.date   Prot Name                 Sec  Value
+[.discordapp.com]
+discordapp.com       ".discordapp.com"    "/"          1603150216    0 __cfduid             6    d63d6c7c7a6f3dac9324825828ae519f91571614216
+[github.com]
+github.com           ""                   "/"          2205548510    0 _device_id           7    9505a6aeabc52e1f03b4fe37077cc664
+github.com           ""                   "/"          1575606111    0 user_session         7    67p9qrrqars8Bf_9X8OM3CUnw1zVwgwWOf-vosrst6CU99WB
+github.com           ""                   "/"          1575606111    0 __Host-user_session_same_site 7    67p9qrrqars8Bf_9X8OM3CUnw1zVwgwWOf-vosrst6CU99WB
+github.com           ""                   "/"          1574400111    0 has_recent_activity  4    1
+[.github.com]
+github.com           ".github.com"        "/"          1634967841    0 _octo                4    GH1.1.829090428.1571809441
+github.com           ".github.com"        "/"          1637468494    0 _ga                  4    GA1.2.1849409914.1571809442
+github.com           ".github.com"        "/"          2205548510    0 logged_in            7    yes
+github.com           ".github.com"        "/"          2205548510    0 dotcom_user          7    chrislopt
+github.com           ".github.com"        "/"          1575606111    0 user_session         5    67p9qrrqars8Bf_9X8OM3CUnw1zVwgwWOf-vosrst6CU99WB
+github.com           ".github.com"        "/"          1574400111    0 has_recent_activity  4    1
+[.youtube.com]
+youtube.com          ".youtube.com"       "/"          1587526092    0 VISITOR_INFO1_LIVE   6    F5_mQW7wu-M
+www.youtube.com      ".youtube.com"       "/"          1593238123    0 PREF                 4    f1=50000000
+[.postgresql.org]
+postgresql.org       ".postgresql.org"    "/"          1635047493    0 __utma               4    257560202.1163086814.1571975493.1571975493.1571975493.1
+postgresql.org       ".postgresql.org"    "/"          1587743493    0 __utmz               4    257560202.1571975493.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+[.mozilla.org]
+mozilla.org          ".mozilla.org"       "/"          1635302713    0 _ga                  4    GA1.2.1971315566.1572230612
+[.visualstudio.com]
+visualstudio.com     ".visualstudio.com"  "/"          1635885881    0 _ga                  4    GA1.2.1068917087.1572813881
+code.visualstudio.com ""                   "/"          1604349881    0 MSFPC                4    GUID=d6b74e1998604d1ea2de93fc92155160&HASH=d6b7&LV=201911&V=4&LU=1572813881119
+visualstudio.com     ".visualstudio.com"  "/"          1730495784    0 VstsSession          7    %7B%22PersistentSessionId%22%3A%22ea89b2d1-b4a6-427c-b0af-6e0b7766807a%22%2C%22PendingAuthenticationSessionId%22%3A%2200000000-0000-0000-0000-000000000000%22%2C%22CurrentAuthenticationSessionId%22%3A%2200000000-0000-0000-0000-000000000000%22%7D
+[.marketplace.visualstudio.com]
+marketplace.visualstudio.com ".marketplace.visualstudio.com" "/"          1635974184    0 Gallery-Service-UserIdentifier 5    fdf1172b-7690-40ca-8357-55099f274973
+[.google.com]
+google.com           ".google.com"        "/complete/search" 1589478157    0 CGIC                 6    IlV0ZXh0L2h0bWwsYXBwbGljYXRpb24veGh0bWwreG1sLGFwcGxpY2F0aW9uL3htbDtxPTAuOSxpbWFnZS93ZWJwLGltYWdlL2FwbmcsKi8qO3E9MC44
+google.com           ".google.com"        "/search"    1589478157    0 CGIC                 6    IlV0ZXh0L2h0bWwsYXBwbGljYXRpb24veGh0bWwreG1sLGFwcGxpY2F0aW9uL3htbDtxPTAuOSxpbWFnZS93ZWJwLGltYWdlL2FwbmcsKi8qO3E9MC44
+google.com           ".google.com"        "/verify"    1589737359    0 SNID                 7    APNaz9-7ZhOmNmEx4F8304i68e6G4udmUy4nwFSFhMML5lTrjcPKpYbpO5wLLjDwBKg6ZG4jy4NCePHajiM73g
+google.com           ".google.com"        "/"          1589737359    0 NID                  6    191=p8QBaSOEX-S45IJ8FIfmQhF_xXoO6I1KYVpuLEsFnDfr0fpbRfnPW3zc16ZQKH7IH471W45DNG4meCOgyQqttDmnCNSwqlLIMAutXuviNyDBcflKMfZqO6QXxGVKugVhc-pB0EYhujBXkJHvI4VgXo8mL2PlXfaQkMYSeVxswEo
+google.com           ".google.com"        "/"          1576518161    0 1P_JAR               4    2019-11-16-17
+[.bing.com]
+www.bing.com         ".bing.com"          "/"          1637037072    0 SRCHD                4    AF=NOFORM
+www.bing.com         ".bing.com"          "/"          1637037072    0 SRCHUID              4    V=2&GUID=A59360504A9F44F9BCEF6C6CC28C045B&dmnchg=1
+www.bing.com         ".bing.com"          "/"          1637037072    0 SRCHUSR              4    DOB=20191116
+www.bing.com         ".bing.com"          "/"          1607574672    0 _EDGE_V              6    1
+www.bing.com         ".bing.com"          "/"          1607574672    0 MUID                 4    20F6AFE298F6679F02F7A1F499D36636
+www.bing.com         ""                   "/"          1607574672    0 MUIDB                6    20F6AFE298F6679F02F7A1F499D36636
+[.vscode-auth.github.com]
+vscode-auth.github.com ".vscode-auth.github.com" "/"          1574482911    0 heroku-session-affinity 4    ACyDaANoA24IAebUaNP+//8HYgAGDOBiAACAq2EBbAAAAAFtAAAABXdlYi4xarBBG1vN+xysc1aOjr+O5y3RcdBt
+[.code.visualstudio.com]
+code.visualstudio.com ".code.visualstudio.com" "/"          1604349881    0 MSFPC                4    GUID=d6b74e1998604d1ea2de93fc92155160&HASH=d6b7&LV=201911&V=4&LU=1572813881119
+[.www.bing.com]
+www.bing.com         ".www.bing.com"      "/"          1607574672    0 MUIDB                4    20F6AFE298F6679F02F7A1F499D36636

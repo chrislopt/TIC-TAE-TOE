@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="">
+  <name>Sweet sddm</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1334945</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>67</rating>
+  <downloads>2422</downloads>
+  <installedfile>/tmp/Sweet.tar.gz</installedfile>
+  <id>1334945</id>
+  <releasedate>2019-11-07</releasedate>
+  <summary>Colorful sddm theme to fit my &lt;a href="https://store.kde.org/p/1294729/" target="_blank" rel="nofollow"> Sweet theme &lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/a/f/f/b/634b8f876ef80d3dd23d9308986ec9a55e03.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/a/f/f/b/634b8f876ef80d3dd23d9308986ec9a55e03.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/id/1573158716/s/8336fb1107da229bf4f127a43ca6854d/t/1573459190/o/1/Sweet.tar.gz</payload>
+  <tags>gplv3,linux,unix</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

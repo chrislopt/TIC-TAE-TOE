@@ -1,0 +1,14 @@
+[2019-11-22 00:09:40.958] [sharedprocess] [info] main {"machineId":"f28f5177ce2c39115a2e80846150f379ce490b7924f8479f8ad0431aebd70332","windowId":2}
+[2019-11-22 00:09:41.196] [sharedprocess] [info] Deleted from disk donjayamanne.git-extension-pack /home/chrislopt/.vscode/extensions/donjayamanne.git-extension-pack-0.1.3
+[2019-11-22 00:09:41.476] [sharedprocess] [info] Deleted from disk eamodio.gitlens /home/chrislopt/.vscode/extensions/eamodio.gitlens-10.2.0
+[2019-11-22 00:09:41.486] [sharedprocess] [info] Deleted from disk ms-ceintl.vscode-language-pack-es /home/chrislopt/.vscode/extensions/ms-ceintl.vscode-language-pack-es-1.40.2
+[2019-11-22 00:09:41.940] [sharedprocess] [info] Deleted from disk codezombiech.gitignore /home/chrislopt/.vscode/extensions/codezombiech.gitignore-0.6.0
+[2019-11-22 00:09:41.977] [sharedprocess] [info] Deleted from disk knisterpeter.vscode-github /home/chrislopt/.vscode/extensions/knisterpeter.vscode-github-0.30.3
+[2019-11-22 00:09:51.244] [sharedprocess] [info] Uninstalling extension: donjayamanne.githistory
+[2019-11-22 00:09:51.395] [sharedprocess] [info] Successfully uninstalled extension: donjayamanne.githistory
+[2019-11-22 00:10:05.172] [sharedprocess] [info] Uninstalling extension: ziyasal.vscode-open-in-github
+[2019-11-22 00:10:05.246] [sharedprocess] [info] Successfully uninstalled extension: ziyasal.vscode-open-in-github
+[2019-11-22 00:10:20.963] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-11-22 00:10:20.974] [sharedprocess] [info] Removing unused language pack: b49b7c9773f1554b9ed8f7ae8f36e9f2.es
+[2019-11-22 00:10:29.910] [sharedprocess] [info] Uninstalling extension: github.vscode-pull-request-github
+[2019-11-22 00:10:29.978] [sharedprocess] [info] Successfully uninstalled extension: github.vscode-pull-request-github

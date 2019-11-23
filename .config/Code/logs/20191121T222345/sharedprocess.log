@@ -1,0 +1,5 @@
+[2019-11-21 22:23:49.599] [sharedprocess] [info] main {"machineId":"f28f5177ce2c39115a2e80846150f379ce490b7924f8479f8ad0431aebd70332","windowId":2}
+[2019-11-21 22:23:49.895] [sharedprocess] [info] Deleted from disk eamodio.gitlens /home/chrislopt/.vscode/extensions/eamodio.gitlens-10.1.2
+[2019-11-21 22:23:49.895] [sharedprocess] [info] Deleted from disk esbenp.prettier-vscode /home/chrislopt/.vscode/extensions/esbenp.prettier-vscode-3.6.0
+[2019-11-21 22:24:29.618] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-11-21 22:24:29.622] [sharedprocess] [info] Skipping directory b49b7c9773f1554b9ed8f7ae8f36e9f2.es. Language pack still in use.

@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=image-png
+Name=logo192.png
+Type=Link
+URL[$e]=file:$HOME/my-app/public/logo192.png
+X-KDE-LastOpenedWith=org.kde.gwenview

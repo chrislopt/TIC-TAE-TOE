@@ -1,0 +1,58 @@
+[2019-11-22 00:10:45.638] [exthost] [info] extension host started
+[2019-11-22 00:10:45.667] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2019-11-22 00:10:45.668] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-11-22 00:10:45.672] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2019-11-22 00:10:45.672] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-11-22 00:10:45.696] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2019-11-22 00:10:45.696] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-11-22 00:10:45.699] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"*"}
+[2019-11-22 00:10:45.699] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chrislopt/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/client/out/extension
+[2019-11-22 00:10:45.703] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"*"}
+[2019-11-22 00:10:45.703] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chrislopt/.vscode/extensions/esbenp.prettier-vscode-3.8.0/dist/extension
+[2019-11-22 00:10:45.744] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag {"startup":true,"extensionId":{"value":"formulahendry.auto-rename-tag","_lower":"formulahendry.auto-rename-tag"},"activationEvent":"*"}
+[2019-11-22 00:10:45.744] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chrislopt/.vscode/extensions/formulahendry.auto-rename-tag-0.1.1/out/src/extension
+[2019-11-22 00:10:45.746] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2019-11-22 00:10:45.746] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chrislopt/.vscode/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2019-11-22 00:10:46.003] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"extensionId":{"value":"vscode-icons-team.vscode-icons","_lower":"vscode-icons-team.vscode-icons"},"activationEvent":"*"}
+[2019-11-22 00:10:46.003] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chrislopt/.vscode/extensions/vscode-icons-team.vscode-icons-9.5.0/dist/src/vscode-icons.bundle.js
+[2019-11-22 00:10:46.511] [exthost] [info] eager extensions activated
+[2019-11-22 00:15:11.758] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2019-11-22 00:15:11.758] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2019-11-22 00:15:11.764] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2019-11-22 00:15:11.764] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2019-11-22 00:15:11.790] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2019-11-22 00:15:11.790] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2019-11-22 00:15:39.980] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:json"}
+[2019-11-22 00:15:39.980] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/extension-editing/dist/extension
+[2019-11-22 00:15:39.990] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"onLanguage:json"}
+[2019-11-22 00:15:39.990] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/npm/dist/main
+[2019-11-22 00:16:03.445] [exthost] [info] extension host started
+[2019-11-22 00:16:03.494] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2019-11-22 00:16:03.495] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-11-22 00:16:03.503] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2019-11-22 00:16:03.504] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-11-22 00:16:03.541] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2019-11-22 00:16:03.542] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-11-22 00:16:03.546] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"*"}
+[2019-11-22 00:16:03.546] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chrislopt/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/client/out/extension
+[2019-11-22 00:16:03.554] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag {"startup":true,"extensionId":{"value":"formulahendry.auto-rename-tag","_lower":"formulahendry.auto-rename-tag"},"activationEvent":"*"}
+[2019-11-22 00:16:03.555] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chrislopt/.vscode/extensions/formulahendry.auto-rename-tag-0.1.1/out/src/extension
+[2019-11-22 00:16:03.557] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2019-11-22 00:16:03.557] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chrislopt/.vscode/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2019-11-22 00:16:03.809] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"extensionId":{"value":"vscode-icons-team.vscode-icons","_lower":"vscode-icons-team.vscode-icons"},"activationEvent":"*"}
+[2019-11-22 00:16:03.809] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chrislopt/.vscode/extensions/vscode-icons-team.vscode-icons-9.5.0/dist/src/vscode-icons.bundle.js
+[2019-11-22 00:16:03.854] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2019-11-22 00:16:03.854] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/npm/dist/main
+[2019-11-22 00:16:04.307] [exthost] [info] eager extensions activated
+[2019-11-22 00:16:14.206] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2019-11-22 00:16:14.206] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2019-11-22 00:16:14.209] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2019-11-22 00:16:14.209] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2019-11-22 00:16:14.226] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2019-11-22 00:16:14.226] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2019-11-22 00:16:26.506] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:json"}
+[2019-11-22 00:16:26.506] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/extension-editing/dist/extension
+[2019-11-22 00:16:31.278] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"*"}
+[2019-11-22 00:16:31.278] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chrislopt/.vscode/extensions/esbenp.prettier-vscode-3.8.0/dist/extension
+[2019-11-22 00:25:01.292] [exthost] [info] ExtensionService#_doActivateExtension mgmcdermott.vscode-language-babel {"startup":false,"extensionId":{"value":"mgmcdermott.vscode-language-babel","_lower":"mgmcdermott.vscode-language-babel"},"activationEvent":"onLanguage:javascript"}
+[2019-11-22 00:25:01.293] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chrislopt/.vscode/extensions/mgmcdermott.vscode-language-babel-0.0.25/dist/extension

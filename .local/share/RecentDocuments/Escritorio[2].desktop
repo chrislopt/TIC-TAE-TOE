@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=folder
+Name=Escritorio
+Type=Link
+URL[$e]=file:$HOME/Escritorio
+X-KDE-LastOpenedWith=org.kde.dolphin

@@ -1,0 +1,21 @@
+{
+    "todos": [
+      {
+        "carne": "00005218",
+        "horario": "Martes de 13:30 a 15:30",
+        "llegotarde": "No"
+        
+      },
+      {
+        "carne": "00114718",
+        "horario": "Jueves de 13:30 a 15:30",
+        "llegotarde": "Si"
+      },
+      {
+        "carne": "00345618",
+        "horario": "Jueves de 13:30 a 15:30",
+        "llegotarde": "No"
+      }
+    ]
+  }
+  

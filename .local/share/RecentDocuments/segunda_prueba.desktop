@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=folder
+Name=segunda_prueba
+Type=Link
+URL[$e]=file:$HOME/Escritorio/segunda_prueba
+X-KDE-LastOpenedWith=code

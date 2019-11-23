@@ -1,0 +1,11 @@
+[2019-11-22 00:10:46.876] [sharedprocess] [info] main {"machineId":"f28f5177ce2c39115a2e80846150f379ce490b7924f8479f8ad0431aebd70332","windowId":2}
+[2019-11-22 00:10:48.673] [sharedprocess] [info] Deleted from disk github.vscode-pull-request-github /home/chrislopt/.vscode/extensions/github.vscode-pull-request-github-0.13.0
+[2019-11-22 00:10:48.706] [sharedprocess] [info] Deleted from disk ziyasal.vscode-open-in-github /home/chrislopt/.vscode/extensions/ziyasal.vscode-open-in-github-1.3.6
+[2019-11-22 00:10:48.753] [sharedprocess] [info] Deleted from disk donjayamanne.githistory /home/chrislopt/.vscode/extensions/donjayamanne.githistory-0.4.6
+[2019-11-22 00:11:26.888] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-11-22 00:15:57.992] [sharedprocess] [info] Uninstalling extension: esbenp.prettier-vscode
+[2019-11-22 00:15:58.138] [sharedprocess] [info] Successfully uninstalled extension: esbenp.prettier-vscode
+[2019-11-22 00:16:28.415] [sharedprocess] [info] Installing extension: esbenp.prettier-vscode
+[2019-11-22 00:16:31.044] [sharedprocess] [info] Downloaded extension: esbenp.prettier-vscode /tmp/66dcc1ec-e180-4e41-a77c-2c4a083509bf
+[2019-11-22 00:16:31.170] [sharedprocess] [info] Removed the extension from uninstalled list: esbenp.prettier-vscode
+[2019-11-22 00:16:31.182] [sharedprocess] [info] Extensions installed successfully: esbenp.prettier-vscode

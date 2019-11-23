@@ -1,0 +1,33 @@
+@import "componentes/variables";
+@import "componentes/mixin";
+
+
+
+
+
+section{
+    background-color: $bg-color;
+    border: $border-std;
+    width:100% ;
+    height: 100vh;
+
+@include flex-center();
+&:hover{
+    background:$bg-color;
+    p{
+        color: $border-color;
+    }
+
+
+}
+
+}
+
+p{
+    color: $font-color;
+    @include space-std($margin-std);
+    
+}
+
+
+

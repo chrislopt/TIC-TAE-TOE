@@ -1,0 +1,26 @@
+[2019-11-21 23:41:16.498] [exthost] [info] extension host started
+[2019-11-21 23:41:16.535] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2019-11-21 23:41:16.535] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-11-21 23:41:16.544] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2019-11-21 23:41:16.545] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-11-21 23:41:16.577] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"GitHub.vscode-pull-request-github","_lower":"github.vscode-pull-request-github"},"activationEvent":"*"}
+[2019-11-21 23:41:16.577] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2019-11-21 23:41:16.644] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2019-11-21 23:41:16.644] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-11-21 23:41:16.676] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"*"}
+[2019-11-21 23:41:16.677] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chrislopt/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/client/out/extension
+[2019-11-21 23:41:16.714] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":true,"extensionId":{"value":"eamodio.gitlens","_lower":"eamodio.gitlens"},"activationEvent":"*"}
+[2019-11-21 23:41:16.715] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chrislopt/.vscode/extensions/eamodio.gitlens-10.2.0/dist/extension
+[2019-11-21 23:41:16.812] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"*"}
+[2019-11-21 23:41:16.812] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chrislopt/.vscode/extensions/esbenp.prettier-vscode-3.8.0/dist/extension
+[2019-11-21 23:41:17.071] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag {"startup":true,"extensionId":{"value":"formulahendry.auto-rename-tag","_lower":"formulahendry.auto-rename-tag"},"activationEvent":"*"}
+[2019-11-21 23:41:17.071] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chrislopt/.vscode/extensions/formulahendry.auto-rename-tag-0.1.1/out/src/extension
+[2019-11-21 23:41:17.187] [exthost] [info] ExtensionService#_doActivateExtension KnisterPeter.vscode-github {"startup":true,"extensionId":{"value":"KnisterPeter.vscode-github","_lower":"knisterpeter.vscode-github"},"activationEvent":"*"}
+[2019-11-21 23:41:17.187] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chrislopt/.vscode/extensions/knisterpeter.vscode-github-0.30.3/out/src/main
+[2019-11-21 23:41:20.661] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2019-11-21 23:41:20.662] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chrislopt/.vscode/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2019-11-21 23:41:27.883] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"extensionId":{"value":"vscode-icons-team.vscode-icons","_lower":"vscode-icons-team.vscode-icons"},"activationEvent":"*"}
+[2019-11-21 23:41:27.883] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chrislopt/.vscode/extensions/vscode-icons-team.vscode-icons-9.5.0/dist/src/vscode-icons.bundle.js
+[2019-11-21 23:41:28.853] [exthost] [info] eager extensions activated
+[2019-11-21 23:41:30.725] [exthost] [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github {"startup":true,"extensionId":{"value":"GitHub.vscode-pull-request-github","_lower":"github.vscode-pull-request-github"},"activationEvent":"*"}
+[2019-11-21 23:41:30.725] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chrislopt/.vscode/extensions/github.vscode-pull-request-github-0.13.0/media/extension

@@ -1,0 +1,39 @@
+::before::after{
+
+}
+
+:root, body{
+height: 100%;
+--main-bg-color:white;
+--main-bg-dark-color: cadetblue;
+box-sizing: border-box; 
+
+}
+
+body{
+    background-color: var(--main-bg-color);
+
+}
+nav{
+    background-color: var(--main-bg-dark-color);
+    height: 50px;
+display: flex;
+padding: 0em 1em;
+}
+
+.src-only{
+    display: none;
+}
+
+.brand{
+    margin-left: ;;
+}
+
+
+.brand.logo{
+    height: 100%;
+ width: 100px;
+ object-fit: cover;
+ object-position: center;
+ 
+}

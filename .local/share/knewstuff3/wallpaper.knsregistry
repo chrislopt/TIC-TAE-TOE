@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="">
+  <name>Sweet wallpaper</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1309907</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>63</rating>
+  <downloads>95216</downloads>
+  <installedfile>/home/chrislopt/.local/share/wallpapers//Sweet-Wallpapers/*</installedfile>
+  <installedfile>/home/chrislopt/.local/share/wallpapers//</installedfile>
+  <id>1309907</id>
+  <releasedate>2019-06-14</releasedate>
+  <summary>wallpaper with colors that fits my &lt;a href="https://www.pling.com/p/1294729/" target="_blank" rel="nofollow">Sweet theme &lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/c/f/8/3/61af45fda6d673380e56166ae5fbfc315d2b.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/c/f/8/3/61af45fda6d673380e56166ae5fbfc315d2b.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/id/1560540449/s/3829aebb49a97af622210870ed011026/t/1573459176/o/1/Sweet-Wallpapers.tar.xz</payload>
+  <tags>wallpaper,artwork,plasma,kde,cc-by-sa,original-product</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

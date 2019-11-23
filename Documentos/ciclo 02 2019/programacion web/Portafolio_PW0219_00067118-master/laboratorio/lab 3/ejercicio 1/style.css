@@ -1,0 +1,88 @@
+/* contendor de grid */
+.grid-container{
+    display: grid;
+    justify-content: center;
+    grid-template: 100px 100px 100px 100px 100px 100px 100px 100px 100px / 120px 120px 120px 120px 120px 120px 120px 120px 120px;
+    grid-gap: 10px;
+    
+}
+/* contendor de grid */
+.grid-container>img{
+    width: 100%;
+    height: 100%;
+    margin: 10px;
+    object-fit: cover;
+    
+}
+/* contendor de grid  imagen numero uno*/
+.grid-container>.uno{
+    grid-column: 1/10;
+    grid-row: 1/3;
+}
+/* contendor de grid imagen numero dos */
+.grid-container>.dos{
+    grid-column: 1/3;
+    grid-row: 3/7;
+}
+
+/* contendor de grid  imagen numero tres*/
+.grid-container>.tres{
+    grid-column: 3/5;
+    grid-row: 3/4;
+}
+/* contendor de grid imagen numero cuatro */
+.grid-container>.cuatro{
+    grid-column: 5/10;
+    grid-row: 3/4;
+}
+
+/* contendor de grid imagen numero cinco */
+.grid-container>.cinco{
+    grid-column: 3/4;
+    grid-row: 4/4;
+}
+/* contendor de grid imagen numero seis */
+.grid-container>.seis{
+    grid-column: 3/4;
+    grid-row: 5/7;
+}
+/* contendor de grid imagen numero siete */
+.grid-container>.siete{
+    grid-column: 5/5;
+    grid-row: 5/6;
+}
+/* contendor de grid imagen numero ocho */
+.grid-container>.ocho{
+    grid-column: 4/7;
+    grid-row: 4/5;
+}
+/* contendor de grid imagen numero nueve */
+.grid-container>.nueve{
+    grid-column: 7/10;
+    grid-row: 4/5 ;
+}
+/* contendor de grid imagen numero diez */
+.grid-container>.diez{
+    grid-column: 4/10;
+    grid-row: 5/7;
+}
+/* contendor de grid imagen numero once */
+.grid-container>.once{
+    grid-column: 1/2;
+    grid-row: 7/10;
+}
+/* contendor de grid imagen numero doce */
+.grid-container>.doce{
+    grid-column: 6/8;
+    grid-row: 7/10 ;
+}
+/* contendor de grid imagen numero trece */
+.grid-container>.trece{
+    grid-column: 1/6 ;
+    grid-row: 7/10;
+}
+/* contendor de grid imagen numero catorce */
+.grid-container>.catorce{
+    grid-column: 8/10;
+    grid-row: 7/10;
+}

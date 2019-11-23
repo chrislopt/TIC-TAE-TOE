@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="">
+  <name>Sweet KDE</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1294174</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>87</rating>
+  <downloads>66167</downloads>
+  <installedfile>/tmp/Sweet.tar.xz</installedfile>
+  <id>1294174</id>
+  <releasedate>2019-08-31</releasedate>
+  <summary>A dark and modern theme for Plasma  based on the awesome &lt;a href="https://store.kde.org/p/998869/" target="_blank" rel="nofollow">Helium&lt;/a> theme.&lt;br />
+&lt;br />
+Suggested settings: &lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1294013/" target="_blank" rel="nofollow">Sweet Kvantum theme&lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1286856/" target="_blank" rel="nofollow">Sweet Aurorae theme &lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1294011/" target="_blank" rel="nofollow">Sweet color scheme&lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1297008/" target="_blank" rel="nofollow">Sweet Konsole color scheme &lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://www.pling.com/p/1305251/" target="_blank" rel="nofollow">Candy icons&lt;/a>&lt;br />
+&lt;br />
+&lt;br />
+&lt;span style="color: #2ED5FF;">&lt;strong>- Note -&lt;/strong>&lt;/span>&lt;br />
+&lt;br />
+&lt;span style="color: #8A2387;">F&lt;/span>&lt;span style="color: #A92E5A;">i&lt;/span>&lt;span style="color: #C93A2D;">r&lt;/span>&lt;span style="color: #E84600;">e&lt;/span>&lt;span style="color: #EB540B;">f&lt;/span>&lt;span style="color: #EE6216;">o&lt;/span>&lt;span style="color: #F17021;">x&lt;/span>: if you are a firefox user, you can give a chance to the &lt;a href="https://addons.mozilla.org/es/firefox/addon/sweet-dark/" target="_blank" rel="nofollow">sweet-dark&lt;/a> extension for a better looking or try my complete &lt;a href="https://github.com/EliverLara/firefox-sweet-theme" target="_blank" rel="nofollow">&lt;strong>&lt;span style="color: #7F00FF;">F&lt;/span>&lt;span style="color: #8400FF;">i&lt;/span>&lt;span style="color: #8900FF;">r&lt;/span>&lt;span style="color: #8E00FF;">e&lt;/span>&lt;span style="color: #9300FF;">f&lt;/span>&lt;span style="color: #9800FF;">o&lt;/span>&lt;span style="color: #9D00FF;">x&lt;/span>&lt;span style="color: #A300FF;">-&lt;/span>&lt;span style="color: #A800FF;">S&lt;/span>&lt;span style="color: #AD00FF;">w&lt;/span>&lt;span style="color: #B200FF;">e&lt;/span>&lt;span style="color: #B700FF;">e&lt;/span>&lt;span style="color: #BC00FF;">t&lt;/span>&lt;span style="color: #C200FF;">-&lt;/span>&lt;span style="color: #C700FF;">T&lt;/span>&lt;span style="color: #CC00FF;">h&lt;/span>&lt;span style="color: #D100FF;">e&lt;/span>&lt;span style="color: #D600FF;">m&lt;/span>&lt;span style="color: #DB00FF;">e&lt;/span>&lt;/strong> &lt;/a>.</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/5/e/5/5/c0411cd98755fa2d9ed428216e8fc6285040.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/5/e/5/5/c0411cd98755fa2d9ed428216e8fc6285040.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/id/1567274981/s/8c5be5a810dc15ae3ca051d1f0be0ef5/t/1573459120/o/1/Sweet.tar.xz</payload>
+  <tags>linux,unix,theme,kde,plasma,cc-by-sa</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Arc KDE</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>x-varlesh-x</author>
+  <homepage>https://store.kde.org/p/1167639</homepage>
+  <licence></licence>
+  <version>20180614</version>
+  <rating>83</rating>
+  <downloads>310046</downloads>
+  <installedfile>/tmp/1-Arc-Dark.tar.gz</installedfile>
+  <id>1167639</id>
+  <releasedate>2018-06-14</releasedate>
+  <summary>Arc KDE - This is a port of the popular GTK theme Arc for Plasma 5 desktop with a few additions and extras.&lt;br />
+&lt;br />
+Screenshot Details&lt;br />
+Engine: Kavntum&lt;br />
+Kvantum Theme: Arc Darker&lt;br />
+Aurorae Decoration: Arc Dark&lt;br />
+Plasma Theme: Arc Dark&lt;br />
+Icons: Papirus&lt;br />
+Dock: Latte Dock&lt;br />
+File Manager: Dolphin&lt;br />
+Terminal: Yakuake&lt;br />
+&lt;br />
+NOTE: Arc Color Plasma Theme Support KDE Color Scheme.&lt;br />
+&lt;br />
+RECOMMEND USE THIS CUSTOMISATION WITH KVANTUM ENGINE:&lt;br />
+https://www.opendesktop.org/p/1005410/&lt;br />
+https://github.com/tsujan/Kvantum/releases</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/1/3/e/d/68acaf1590cc363736372892daa06bffff78.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/1/3/e/d/68acaf1590cc363736372892daa06bffff78.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/id/1528976412/s/73b91b6078609870ae5ef53467906c31/t/1573459675/o/1/1-Arc-Dark.tar.gz</payload>
+  <tags>gplv3,source-package,linux,unix,kde,plasma,theme</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

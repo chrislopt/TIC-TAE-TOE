@@ -1,0 +1,6 @@
+[2019-11-22 00:06:07.036] [renderer1] [error] No se puede desinstalar la extensión 'GitLens — Git supercharged'. La extensión 'Git Extension Pack' depende de esta.: Error: No se puede desinstalar la extensión 'GitLens — Git supercharged'. La extensión 'Git Extension Pack' depende de esta.
+    at U.uninstallExtensions (file:///usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:392:173)
+    at file:///usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:391:857
+[2019-11-22 00:06:11.308] [renderer1] [error] No se puede desinstalar la extensión 'GitLens — Git supercharged'. La extensión 'Git Extension Pack' depende de esta.: Error: No se puede desinstalar la extensión 'GitLens — Git supercharged'. La extensión 'Git Extension Pack' depende de esta.
+    at U.uninstallExtensions (file:///usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:392:173)
+    at file:///usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:391:857

@@ -1,0 +1,6 @@
+Buscando git en: git
+Usando GIT 2.20.1 desde git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/chrislopt
+> git status -z -u

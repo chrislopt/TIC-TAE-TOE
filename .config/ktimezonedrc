@@ -1,0 +1,4 @@
+[TimeZones]
+LocalZone=America/El_Salvador
+ZoneinfoDir=/usr/share/zoneinfo
+Zonetab=/usr/share/zoneinfo/zone.tab

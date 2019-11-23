@@ -1,0 +1,16 @@
+[$Version]
+update_info=gwenview.upd:SideBar_StatusBar_Rename
+
+[MainWindow]
+Height 1080=480
+State=AAAA/wAAAAD9AAAAAAAAA1AAAAGcAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1920=848
+
+[Recent Files]
+File1[$e]=$HOME/my-app/public/favicon.ico
+File2[$e]=$HOME/my-app/public/logo192.png
+File3[$e]=$HOME/my-app/public/logo512.png
+Name1[$e]=favicon.ico
+Name2[$e]=logo192.png
+Name3[$e]=logo512.png

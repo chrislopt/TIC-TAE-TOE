@@ -1,0 +1,35 @@
+ 
+ --1 
+CREATE TABLESPACE SAAS LOCATION '/mnt/saas';
+SET default_tablespace = SAAS;
+
+
+--2
+CREATE USER powerrepuestos PASSWORD 'cafe';
+CREATE USER laatencao PASSWORD 'chocolate';
+CREATE USER simon PASSWORD 'pizza'; 
+CREATE USER moonbucks PASSWORD 'pastel'; 
+
+
+
+ALTER ROLE powerrepuestos WITH CREATEDB;
+ALTER ROLE laatencao WITH CREATEDB;
+ALTER ROLE simon WITH CREATEDB;
+ALTER ROLE moonbucks WITH CREATEDB;
+
+
+--3
+
+\c ucasoft laatencao
+CREATE DATABASE laatencao;
+\c ucasoft simon
+CREATE DATABASE simon;
+\c ucasoft moonbucks
+CREATE DATABASE moonbucks;
+
+--4
+
+GRANT CREATE,CONNECT ON DATABASE powerrepuestos TO uca;
+GRANT CREATE,CONNECT ON DATABASE laatencao TO uca;
+GRANT CREATE,CONNECT ON DATABASE simon TO uca;
+GRANT CREATE,CONNECT ON DATABASE moonbucks TO uca;

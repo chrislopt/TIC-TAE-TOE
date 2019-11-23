@@ -1,0 +1,17 @@
+[2019-11-22 00:04:34.187] [sharedprocess] [info] main {"machineId":"f28f5177ce2c39115a2e80846150f379ce490b7924f8479f8ad0431aebd70332","windowId":2}
+[2019-11-22 00:05:14.195] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-11-22 00:05:14.196] [sharedprocess] [info] Skipping directory b49b7c9773f1554b9ed8f7ae8f36e9f2.es. Language pack still in use.
+[2019-11-22 00:06:06.980] [sharedprocess] [info] Uninstalling extension: eamodio.gitlens
+[2019-11-22 00:06:06.984] [sharedprocess] [error] Failed to uninstall extension: eamodio.gitlens No se puede desinstalar la extensión 'GitLens — Git supercharged'. La extensión 'Git Extension Pack' depende de esta.
+[2019-11-22 00:06:11.252] [sharedprocess] [info] Uninstalling extension: eamodio.gitlens
+[2019-11-22 00:06:11.253] [sharedprocess] [error] Failed to uninstall extension: eamodio.gitlens No se puede desinstalar la extensión 'GitLens — Git supercharged'. La extensión 'Git Extension Pack' depende de esta.
+[2019-11-22 00:06:32.814] [sharedprocess] [info] Uninstalling extension: donjayamanne.git-extension-pack
+[2019-11-22 00:06:32.969] [sharedprocess] [info] Successfully uninstalled extension: donjayamanne.git-extension-pack
+[2019-11-22 00:06:39.158] [sharedprocess] [info] Uninstalling extension: knisterpeter.vscode-github
+[2019-11-22 00:06:39.289] [sharedprocess] [info] Successfully uninstalled extension: knisterpeter.vscode-github
+[2019-11-22 00:06:50.198] [sharedprocess] [info] Uninstalling extension: codezombiech.gitignore
+[2019-11-22 00:06:50.298] [sharedprocess] [info] Successfully uninstalled extension: codezombiech.gitignore
+[2019-11-22 00:06:53.686] [sharedprocess] [info] Uninstalling extension: eamodio.gitlens
+[2019-11-22 00:06:53.754] [sharedprocess] [info] Successfully uninstalled extension: eamodio.gitlens
+[2019-11-22 00:07:08.603] [sharedprocess] [info] Uninstalling extension: ms-ceintl.vscode-language-pack-es
+[2019-11-22 00:07:08.702] [sharedprocess] [info] Successfully uninstalled extension: ms-ceintl.vscode-language-pack-es

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="">
+  <name>Papirus</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>x-varlesh-x</author>
+  <homepage>https://store.kde.org/p/1166289</homepage>
+  <licence></licence>
+  <version>20191101</version>
+  <rating>88</rating>
+  <downloads>543096</downloads>
+  <installedfile>/home/chrislopt/.local/share/icons//papirus-folders-master/*</installedfile>
+  <installedfile>/home/chrislopt/.local/share/icons//</installedfile>
+  <id>1166289</id>
+  <releasedate>2019-11-01</releasedate>
+  <summary>Papirus - it's free and open source SVG-based icon theme for Linux with material and flat style.&lt;br />
+All elements have clear distinction and outlines. Also main feature - it's jucy colors tone.&lt;br />
+&lt;br />
+Papirus support hardcode-tray script:&lt;br />
+https://github.com/bil-elmoussaoui/Hardcode-Tray/&lt;br />
+&lt;br />
+Folder Color support:&lt;br />
+http://foldercolor.tuxfamily.org&lt;br />
+&lt;br />
+Dolphin Folder Color support:&lt;br />
+https://github.com/audoban/dolphin-folder-color&lt;br />
+&lt;br />
+Papirus Folders script:&lt;br />
+https://github.com/PapirusDevelopmentTeam/papirus-folders&lt;br />
+&lt;br />
+And KDE color scheme:&lt;br />
+https://techbase.kde.org/Development/Tutorials/Plasma5/ThemeDetails#Colors</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/8/1/7/2/017b5ab37ec7309285f12e61770f38244d68.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/8/1/7/2/017b5ab37ec7309285f12e61770f38244d68.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/id/1511503431/s/be0999895547f10dfe6d1eb6c4335cf7/t/1573459690/o/1/1511503431-master.tar.gz</payload>
+  <tags>linux,unix,gplv3,papirus,icon-theme,icons,material</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Candy icons</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1305251</homepage>
+  <licence></licence>
+  <version>0.1.0</version>
+  <rating>83</rating>
+  <downloads>19429</downloads>
+  <installedfile>/home/chrislopt/.local/share/icons//candy-icons/*</installedfile>
+  <installedfile>/home/chrislopt/.local/share/icons//</installedfile>
+  <id>1305251</id>
+  <releasedate>2019-10-20</releasedate>
+  <summary>Sweet gradient icon theme originally created to fit my &lt;a href="https://www.gnome-look.org/p/1253385/" target="_blank" rel="nofollow">Sweet&lt;/a> theme&lt;br />
+&lt;br />
+If you want you can combine them with any of the options provided in &lt;a href="https://www.opendesktop.org/p/1284047/" target="_blank" rel="nofollow">sweet-folders&lt;/a> as shown in the second screenshot&lt;br />
+&lt;br />
+&lt;strong>Note&lt;/strong>&lt;br />
+&lt;br />
+To request for icons please &lt;a href="https://github.com/EliverLara/candy-icons/issues" target="_blank" rel="nofollow">open an issue&lt;/a> on github, or if you want to contribute open a &lt;a href="https://github.com/EliverLara/candy-icons/pulls" target="_blank" rel="nofollow">pull request&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/a/9/e/9/4312748331a5528be7ec2f64b811c6c96259.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/a/9/e/9/4312748331a5528be7ec2f64b811c6c96259.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/id/1571602355/s/0c8c9e2b3a47278f939698719fb87f3b/t/1573459159/o/1/candy-icons.tar.gz</payload>
+  <tags>linux,unix,icon-theme,gplv3,original-product</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

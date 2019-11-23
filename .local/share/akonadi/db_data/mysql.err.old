@@ -1,0 +1,231 @@
+2019-11-10 19:05:31 0 [Note] InnoDB: Using Linux native AIO
+2019-11-10 19:05:31 0 [Note] InnoDB: The first innodb_system data file 'ibdata1' did not exist. A new tablespace will be created!
+2019-11-10 19:05:31 0 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2019-11-10 19:05:31 0 [Note] InnoDB: Uses event mutexes
+2019-11-10 19:05:31 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2019-11-10 19:05:31 0 [Note] InnoDB: Number of pools: 1
+2019-11-10 19:05:31 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2019-11-10 19:05:31 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2019-11-10 19:05:31 0 [Note] InnoDB: Completed initialization of buffer pool
+2019-11-10 19:05:31 0 [Note] InnoDB: If the mysqld execution user is authorized, page cleaner thread priority can be changed. See the man page of setpriority().
+2019-11-10 19:05:31 0 [Note] InnoDB: Setting file './ibdata1' size to 12 MB. Physically writing the file full; Please wait ...
+2019-11-10 19:05:31 0 [Note] InnoDB: File './ibdata1' size is now 12 MB.
+2019-11-10 19:05:31 0 [Note] InnoDB: Setting log file ./ib_logfile101 size to 67108864 bytes
+2019-11-10 19:05:31 0 [Note] InnoDB: Setting log file ./ib_logfile1 size to 67108864 bytes
+2019-11-10 19:05:31 0 [Note] InnoDB: Renaming log file ./ib_logfile101 to ./ib_logfile0
+2019-11-10 19:05:31 0 [Note] InnoDB: New log files created, LSN=45786
+2019-11-10 19:05:31 0 [Note] InnoDB: Doublewrite buffer not found: creating new
+2019-11-10 19:05:32 0 [Note] InnoDB: Doublewrite buffer created
+2019-11-10 19:05:32 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2019-11-10 19:05:32 0 [Note] InnoDB: Creating foreign key constraint system tables.
+2019-11-10 19:05:32 0 [Note] InnoDB: Creating tablespace and datafile system tables.
+2019-11-10 19:05:32 0 [Note] InnoDB: Creating sys_virtual system tables.
+2019-11-10 19:05:32 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2019-11-10 19:05:32 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2019-11-10 19:05:32 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2019-11-10 19:05:32 0 [Note] InnoDB: 10.3.17 started; log sequence number 0; transaction id 7
+2019-11-10 19:05:32 0 [Note] Plugin 'FEEDBACK' is disabled.
+2019-11-10 19:05:32 0 [ERROR] Can't open and lock privilege tables: Table 'mysql.servers' doesn't exist
+2019-11-10 19:05:32 0 [Warning] Can't open and lock time zone table: Table 'mysql.time_zone_leap_second' doesn't exist trying to live without them
+2019-11-10 19:05:32 6 [Warning] Failed to load slave replication state from table mysql.gtid_slave_pos: 1146: Table 'mysql.gtid_slave_pos' doesn't exist
+2019-11-10 19:05:32 0 [Note] Reading of all Master_info entries succeeded
+2019-11-10 19:05:32 0 [Note] Added new Master_info '' to hash table
+2019-11-10 19:05:32 0 [Note] /usr/sbin/mysqld-akonadi: ready for connections.
+Version: '10.3.17-MariaDB-0+deb10u1'  socket: '/tmp/akonadi-chrislopt.j1y3HI/mysql.socket'  port: 0  Debian 10
+2019-11-10 19:05:32 10 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+2019-11-10 19:05:36 10 [Note] InnoDB: Recalculation of persistent statistics requested for table `akonadi`.`collectiontable` index `CollectionTable_parentAndNameIndex` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2019-11-10 19:05:36 10 [Note] InnoDB: Recalculation of persistent statistics requested for table `akonadi`.`collectiontable` index `CollectionTable_enabledIndex` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2019-11-10 19:05:36 10 [Note] InnoDB: Recalculation of persistent statistics requested for table `akonadi`.`collectiontable` index `CollectionTable_syncPrefIndex` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2019-11-10 19:05:36 10 [Note] InnoDB: Recalculation of persistent statistics requested for table `akonadi`.`collectiontable` index `CollectionTable_displayPrefIndex` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2019-11-10 19:05:37 10 [Note] InnoDB: Recalculation of persistent statistics requested for table `akonadi`.`collectiontable` index `CollectionTable_indexPrefIndex` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2019-11-10 19:05:37 10 [Note] InnoDB: Recalculation of persistent statistics requested for table `akonadi`.`pimitemtable` index `PimItemTable_collectionIndex` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2019-11-10 19:05:37 10 [Note] InnoDB: Recalculation of persistent statistics requested for table `akonadi`.`pimitemtable` index `PimItemTable_gidIndex` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2019-11-10 19:05:37 10 [Note] InnoDB: Recalculation of persistent statistics requested for table `akonadi`.`pimitemtable` index `PimItemTable_ridIndex` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2019-11-10 19:05:37 10 [Note] InnoDB: Recalculation of persistent statistics requested for table `akonadi`.`pimitemtable` index `PimItemTable_idSortIndex` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2019-11-10 19:05:37 10 [Note] InnoDB: Recalculation of persistent statistics requested for table `akonadi`.`parttypetable` index `PartTypeTable_partTypeNameIndex` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2019-11-10 19:05:37 10 [Note] InnoDB: Recalculation of persistent statistics requested for table `akonadi`.`parttable` index `PartTable_pimItemIdTypeIndex` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2019-11-10 19:05:37 10 [Note] InnoDB: Recalculation of persistent statistics requested for table `akonadi`.`parttable` index `PartTable_pimItemIdSortIndex` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2019-11-10 19:05:37 10 [Note] InnoDB: Recalculation of persistent statistics requested for table `akonadi`.`collectionattributetable` index `CollectionAttributeTable_collectionIndex` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2019-11-10 19:05:37 10 [Note] InnoDB: Recalculation of persistent statistics requested for table `akonadi`.`tagattributetable` index `TagAttributeTable_tagIndex` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2019-11-10 19:05:38 10 [Note] InnoDB: Recalculation of persistent statistics requested for table `akonadi`.`relationtable` index `RelationTable_RelationIndex` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2019-11-10 19:05:38 10 [Note] InnoDB: Recalculation of persistent statistics requested for table `akonadi`.`pimitemflagrelation` index `PimItemFlagRelation_pimItemIdSortIndex` but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2019-11-13 12:49:29 0 [Note] /usr/sbin/mysqld-akonadi (initiated by: unknown): Normal shutdown
+2019-11-13 12:49:29 0 [Note] InnoDB: FTS optimize thread exiting.
+2019-11-13 12:49:29 0 [Note] InnoDB: Starting shutdown...
+2019-11-13 12:49:29 0 [Note] InnoDB: Dumping buffer pool(s) to /home/chrislopt/.local/share/akonadi/db_data/ib_buffer_pool
+2019-11-13 12:49:29 0 [Note] InnoDB: Buffer pool(s) dump completed at 191113 12:49:29
+2019-11-13 12:49:31 0 [Note] InnoDB: Shutdown completed; log sequence number 1864910; transaction id 216
+2019-11-13 12:49:31 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2019-11-13 12:49:31 0 [Note] /usr/sbin/mysqld-akonadi: Shutdown complete
+
+2019-11-15 22:29:50 0 [Note] InnoDB: Using Linux native AIO
+2019-11-15 22:29:50 0 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2019-11-15 22:29:50 0 [Note] InnoDB: Uses event mutexes
+2019-11-15 22:29:50 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2019-11-15 22:29:50 0 [Note] InnoDB: Number of pools: 1
+2019-11-15 22:29:51 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2019-11-15 22:29:51 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2019-11-15 22:29:51 0 [Note] InnoDB: Completed initialization of buffer pool
+2019-11-15 22:29:51 0 [Note] InnoDB: If the mysqld execution user is authorized, page cleaner thread priority can be changed. See the man page of setpriority().
+2019-11-15 22:29:52 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2019-11-15 22:29:52 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2019-11-15 22:29:52 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2019-11-15 22:29:52 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2019-11-15 22:29:52 0 [Note] InnoDB: 10.3.17 started; log sequence number 1864910; transaction id 218
+2019-11-15 22:29:52 0 [Note] InnoDB: Loading buffer pool(s) from /home/chrislopt/.local/share/akonadi/db_data/ib_buffer_pool
+2019-11-15 22:29:52 0 [Note] Plugin 'FEEDBACK' is disabled.
+2019-11-15 22:29:53 0 [ERROR] Can't open and lock privilege tables: Table 'mysql.servers' doesn't exist
+2019-11-15 22:29:53 0 [Warning] Can't open and lock time zone table: Table 'mysql.time_zone_leap_second' doesn't exist trying to live without them
+2019-11-15 22:29:53 6 [Warning] Failed to load slave replication state from table mysql.gtid_slave_pos: 1146: Table 'mysql.gtid_slave_pos' doesn't exist
+2019-11-15 22:29:53 0 [Note] Reading of all Master_info entries succeeded
+2019-11-15 22:29:53 0 [Note] Added new Master_info '' to hash table
+2019-11-15 22:29:53 0 [Note] /usr/sbin/mysqld-akonadi: ready for connections.
+Version: '10.3.17-MariaDB-0+deb10u1'  socket: '/tmp/akonadi-chrislopt.DnDnKP/mysql.socket'  port: 0  Debian 10
+2019-11-15 22:29:54 0 [Note] InnoDB: Buffer pool(s) load completed at 191115 22:29:54
+2019-11-15 22:29:54 9 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+2019-11-16  0:39:57 0 [Note] /usr/sbin/mysqld-akonadi (initiated by: unknown): Normal shutdown
+2019-11-16  0:39:57 0 [Note] InnoDB: FTS optimize thread exiting.
+2019-11-16  0:39:57 0 [Note] InnoDB: Starting shutdown...
+2019-11-16  0:39:57 0 [Note] InnoDB: Dumping buffer pool(s) to /home/chrislopt/.local/share/akonadi/db_data/ib_buffer_pool
+2019-11-16  0:39:57 0 [Note] InnoDB: Buffer pool(s) dump completed at 191116  0:39:57
+2019-11-16  0:39:58 0 [Note] InnoDB: Shutdown completed; log sequence number 1866428; transaction id 228
+2019-11-16  0:39:58 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2019-11-16  0:39:58 0 [Note] /usr/sbin/mysqld-akonadi: Shutdown complete
+
+2019-11-16  0:51:57 0 [Note] InnoDB: Using Linux native AIO
+2019-11-16  0:51:57 0 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2019-11-16  0:51:57 0 [Note] InnoDB: Uses event mutexes
+2019-11-16  0:51:57 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2019-11-16  0:51:57 0 [Note] InnoDB: Number of pools: 1
+2019-11-16  0:51:57 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2019-11-16  0:51:57 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2019-11-16  0:51:57 0 [Note] InnoDB: Completed initialization of buffer pool
+2019-11-16  0:51:57 0 [Note] InnoDB: If the mysqld execution user is authorized, page cleaner thread priority can be changed. See the man page of setpriority().
+2019-11-16  0:51:58 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2019-11-16  0:51:58 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2019-11-16  0:51:58 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2019-11-16  0:51:58 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2019-11-16  0:51:58 0 [Note] InnoDB: Waiting for purge to start
+2019-11-16  0:51:58 0 [Note] InnoDB: 10.3.17 started; log sequence number 1866428; transaction id 229
+2019-11-16  0:51:58 0 [Note] InnoDB: Loading buffer pool(s) from /home/chrislopt/.local/share/akonadi/db_data/ib_buffer_pool
+2019-11-16  0:51:58 0 [Note] Plugin 'FEEDBACK' is disabled.
+2019-11-16  0:51:58 0 [ERROR] Can't open and lock privilege tables: Table 'mysql.servers' doesn't exist
+2019-11-16  0:51:58 0 [Warning] Can't open and lock time zone table: Table 'mysql.time_zone_leap_second' doesn't exist trying to live without them
+2019-11-16  0:51:59 6 [Warning] Failed to load slave replication state from table mysql.gtid_slave_pos: 1146: Table 'mysql.gtid_slave_pos' doesn't exist
+2019-11-16  0:51:59 0 [Note] Reading of all Master_info entries succeeded
+2019-11-16  0:51:59 0 [Note] Added new Master_info '' to hash table
+2019-11-16  0:51:59 0 [Note] /usr/sbin/mysqld-akonadi: ready for connections.
+Version: '10.3.17-MariaDB-0+deb10u1'  socket: '/tmp/akonadi-chrislopt.iMlPxa/mysql.socket'  port: 0  Debian 10
+2019-11-16  0:52:00 0 [Note] InnoDB: Buffer pool(s) load completed at 191116  0:52:00
+2019-11-16  0:52:00 9 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+2019-11-16  1:46:32 0 [Note] /usr/sbin/mysqld-akonadi (initiated by: unknown): Normal shutdown
+2019-11-16  1:46:32 0 [Note] InnoDB: FTS optimize thread exiting.
+2019-11-16  1:46:32 0 [Note] InnoDB: Starting shutdown...
+2019-11-16  1:46:32 0 [Note] InnoDB: Dumping buffer pool(s) to /home/chrislopt/.local/share/akonadi/db_data/ib_buffer_pool
+2019-11-16  1:46:32 0 [Note] InnoDB: Buffer pool(s) dump completed at 191116  1:46:32
+2019-11-16  1:46:34 0 [Note] InnoDB: Shutdown completed; log sequence number 1866437; transaction id 231
+2019-11-16  1:46:34 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2019-11-16  1:46:34 0 [Note] /usr/sbin/mysqld-akonadi: Shutdown complete
+
+2019-11-16  9:59:29 0 [Note] InnoDB: Using Linux native AIO
+2019-11-16  9:59:29 0 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2019-11-16  9:59:29 0 [Note] InnoDB: Uses event mutexes
+2019-11-16  9:59:29 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2019-11-16  9:59:29 0 [Note] InnoDB: Number of pools: 1
+2019-11-16  9:59:29 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2019-11-16  9:59:29 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2019-11-16  9:59:29 0 [Note] InnoDB: Completed initialization of buffer pool
+2019-11-16  9:59:29 0 [Note] InnoDB: If the mysqld execution user is authorized, page cleaner thread priority can be changed. See the man page of setpriority().
+2019-11-16  9:59:30 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2019-11-16  9:59:30 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2019-11-16  9:59:30 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2019-11-16  9:59:30 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2019-11-16  9:59:30 0 [Note] InnoDB: 10.3.17 started; log sequence number 1866437; transaction id 229
+2019-11-16  9:59:30 0 [Note] InnoDB: Loading buffer pool(s) from /home/chrislopt/.local/share/akonadi/db_data/ib_buffer_pool
+2019-11-16  9:59:30 0 [Note] Plugin 'FEEDBACK' is disabled.
+2019-11-16  9:59:31 0 [ERROR] Can't open and lock privilege tables: Table 'mysql.servers' doesn't exist
+2019-11-16  9:59:31 0 [Warning] Can't open and lock time zone table: Table 'mysql.time_zone_leap_second' doesn't exist trying to live without them
+2019-11-16  9:59:31 6 [Warning] Failed to load slave replication state from table mysql.gtid_slave_pos: 1146: Table 'mysql.gtid_slave_pos' doesn't exist
+2019-11-16  9:59:31 0 [Note] Reading of all Master_info entries succeeded
+2019-11-16  9:59:31 0 [Note] Added new Master_info '' to hash table
+2019-11-16  9:59:31 0 [Note] /usr/sbin/mysqld-akonadi: ready for connections.
+Version: '10.3.17-MariaDB-0+deb10u1'  socket: '/tmp/akonadi-chrislopt.9Mz9cc/mysql.socket'  port: 0  Debian 10
+2019-11-16  9:59:32 0 [Note] InnoDB: Buffer pool(s) load completed at 191116  9:59:32
+2019-11-16  9:59:32 9 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+2019-11-16 13:12:55 0 [Note] /usr/sbin/mysqld-akonadi (initiated by: unknown): Normal shutdown
+2019-11-16 13:12:55 0 [Note] InnoDB: FTS optimize thread exiting.
+2019-11-16 13:12:55 0 [Note] InnoDB: Starting shutdown...
+2019-11-16 13:12:55 0 [Note] InnoDB: Dumping buffer pool(s) to /home/chrislopt/.local/share/akonadi/db_data/ib_buffer_pool
+2019-11-16 13:12:55 0 [Note] InnoDB: Buffer pool(s) dump completed at 191116 13:12:55
+2019-11-16 13:12:56 0 [Note] InnoDB: Shutdown completed; log sequence number 1866446; transaction id 231
+2019-11-16 13:12:56 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2019-11-16 13:12:56 0 [Note] /usr/sbin/mysqld-akonadi: Shutdown complete
+
+2019-11-16 18:22:05 0 [Note] InnoDB: Using Linux native AIO
+2019-11-16 18:22:05 0 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2019-11-16 18:22:05 0 [Note] InnoDB: Uses event mutexes
+2019-11-16 18:22:05 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2019-11-16 18:22:05 0 [Note] InnoDB: Number of pools: 1
+2019-11-16 18:22:05 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2019-11-16 18:22:05 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2019-11-16 18:22:05 0 [Note] InnoDB: Completed initialization of buffer pool
+2019-11-16 18:22:05 0 [Note] InnoDB: If the mysqld execution user is authorized, page cleaner thread priority can be changed. See the man page of setpriority().
+2019-11-16 18:22:07 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2019-11-16 18:22:07 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2019-11-16 18:22:07 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2019-11-16 18:22:07 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2019-11-16 18:22:07 0 [Note] InnoDB: 10.3.17 started; log sequence number 1866446; transaction id 229
+2019-11-16 18:22:07 0 [Note] InnoDB: Loading buffer pool(s) from /home/chrislopt/.local/share/akonadi/db_data/ib_buffer_pool
+2019-11-16 18:22:07 0 [Note] Plugin 'FEEDBACK' is disabled.
+2019-11-16 18:22:07 0 [ERROR] Can't open and lock privilege tables: Table 'mysql.servers' doesn't exist
+2019-11-16 18:22:07 0 [Warning] Can't open and lock time zone table: Table 'mysql.time_zone_leap_second' doesn't exist trying to live without them
+2019-11-16 18:22:07 6 [Warning] Failed to load slave replication state from table mysql.gtid_slave_pos: 1146: Table 'mysql.gtid_slave_pos' doesn't exist
+2019-11-16 18:22:07 0 [Note] Reading of all Master_info entries succeeded
+2019-11-16 18:22:07 0 [Note] Added new Master_info '' to hash table
+2019-11-16 18:22:07 0 [Note] /usr/sbin/mysqld-akonadi: ready for connections.
+Version: '10.3.17-MariaDB-0+deb10u1'  socket: '/tmp/akonadi-chrislopt.rbTL7e/mysql.socket'  port: 0  Debian 10
+2019-11-16 18:22:09 9 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+2019-11-16 18:22:09 0 [Note] InnoDB: Buffer pool(s) load completed at 191116 18:22:09
+2019-11-16 19:40:57 0 [Note] /usr/sbin/mysqld-akonadi (initiated by: unknown): Normal shutdown
+2019-11-16 19:40:57 0 [Note] InnoDB: FTS optimize thread exiting.
+2019-11-16 19:40:57 0 [Note] InnoDB: Starting shutdown...
+2019-11-16 19:40:57 0 [Note] InnoDB: Dumping buffer pool(s) to /home/chrislopt/.local/share/akonadi/db_data/ib_buffer_pool
+2019-11-16 19:40:57 0 [Note] InnoDB: Buffer pool(s) dump completed at 191116 19:40:57
+2019-11-16 19:40:59 0 [Note] InnoDB: Shutdown completed; log sequence number 1866455; transaction id 231
+2019-11-16 19:40:59 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2019-11-16 19:40:59 0 [Note] /usr/sbin/mysqld-akonadi: Shutdown complete
+
+2019-11-21 11:49:26 0 [Note] InnoDB: Using Linux native AIO
+2019-11-21 11:49:26 0 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2019-11-21 11:49:26 0 [Note] InnoDB: Uses event mutexes
+2019-11-21 11:49:26 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2019-11-21 11:49:26 0 [Note] InnoDB: Number of pools: 1
+2019-11-21 11:49:26 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2019-11-21 11:49:26 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2019-11-21 11:49:26 0 [Note] InnoDB: Completed initialization of buffer pool
+2019-11-21 11:49:26 0 [Note] InnoDB: If the mysqld execution user is authorized, page cleaner thread priority can be changed. See the man page of setpriority().
+2019-11-21 11:49:30 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2019-11-21 11:49:30 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2019-11-21 11:49:30 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2019-11-21 11:49:30 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2019-11-21 11:49:30 0 [Note] InnoDB: 10.3.18 started; log sequence number 1866455; transaction id 229
+2019-11-21 11:49:30 0 [Note] InnoDB: Loading buffer pool(s) from /home/chrislopt/.local/share/akonadi/db_data/ib_buffer_pool
+2019-11-21 11:49:30 0 [Note] Plugin 'FEEDBACK' is disabled.
+2019-11-21 11:49:31 0 [ERROR] Can't open and lock privilege tables: Table 'mysql.servers' doesn't exist
+2019-11-21 11:49:31 0 [Warning] Can't open and lock time zone table: Table 'mysql.time_zone_leap_second' doesn't exist trying to live without them
+2019-11-21 11:49:31 6 [Warning] Failed to load slave replication state from table mysql.gtid_slave_pos: 1146: Table 'mysql.gtid_slave_pos' doesn't exist
+2019-11-21 11:49:31 0 [Note] Reading of all Master_info entries succeeded
+2019-11-21 11:49:31 0 [Note] Added new Master_info '' to hash table
+2019-11-21 11:49:31 0 [Note] /usr/sbin/mysqld-akonadi: ready for connections.
+Version: '10.3.18-MariaDB-0+deb10u1'  socket: '/tmp/akonadi-chrislopt.0cmpmQ/mysql.socket'  port: 0  Debian 10
+2019-11-21 11:49:32 0 [Note] InnoDB: Buffer pool(s) load completed at 191121 11:49:32
+2019-11-21 11:49:32 9 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+2019-11-21 11:54:15 0 [Note] /usr/sbin/mysqld-akonadi (initiated by: unknown): Normal shutdown
+2019-11-21 11:54:15 0 [Note] InnoDB: FTS optimize thread exiting.
+2019-11-21 11:54:15 0 [Note] InnoDB: Starting shutdown...
+2019-11-21 11:54:15 0 [Note] InnoDB: Dumping buffer pool(s) to /home/chrislopt/.local/share/akonadi/db_data/ib_buffer_pool
+2019-11-21 11:54:15 0 [Note] InnoDB: Buffer pool(s) dump completed at 191121 11:54:15
+2019-11-21 11:54:16 0 [Note] InnoDB: Shutdown completed; log sequence number 1866464; transaction id 231
+2019-11-21 11:54:16 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2019-11-21 11:54:16 0 [Note] /usr/sbin/mysqld-akonadi: Shutdown complete
+
